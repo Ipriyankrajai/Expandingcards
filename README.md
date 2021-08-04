@@ -8,11 +8,11 @@ This project was created to practice basic concepts of building HTML, CSS, JavaS
 ## App Preview
 
 <p>
-<img width="190" height="390" src="screenshot/ss1.PNG" >
-<img width="190" height="390" src="screenshot/ss2.PNG" >
-<img width="190" height="390" src="screenshot/ss3.PNG" >
-<img width="190" height="390" src="screenshot/ss4.PNG" >
-<img width="190" height="390" src="screenshot/ss5.PNG" >
+<img height="390" src="screenshot/ss1.PNG" >
+<img height="390" src="screenshot/ss2.PNG" >
+<img height="390" src="screenshot/ss3.PNG" >
+<img height="390" src="screenshot/ss4.PNG" >
+<img height="390" src="screenshot/ss5.PNG" >
 </p>
 
 
