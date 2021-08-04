@@ -6,7 +6,7 @@ This project was created to practice basic concepts of building HTML, CSS, JavaS
 * Working with pseudo class selector
 
 ## App Preview
-
+<br>
 <p>
 <img height="390" src="screenshot/ss1.PNG" >
 <img height="390" src="screenshot/ss2.PNG" >
