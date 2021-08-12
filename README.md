@@ -4,6 +4,7 @@ This project was created to practice basic concepts of building HTML, CSS, JavaS
 * Working with core components
 * Learning Stylesheet
 * Working with pseudo class selector
+* Working with flexbox
 
 ## Preview
 
