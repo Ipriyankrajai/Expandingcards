@@ -5,8 +5,8 @@ This project was created to practice basic concepts of building HTML, CSS, JavaS
 * Learning Stylesheet
 * Working with pseudo class selector
 * Working with flexbox
-##<a href='https://ipriyankrajai.github.io/Expandingcards/'>Live demo</a>
 
+[Live demo](https://ipriyankrajai.github.io/Expandingcards/)
 ## Preview
 
 <p>
